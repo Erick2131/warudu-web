@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'D:\/warudu_web_app/lib/navbar.dart';
+import 'navbar.dart';
 
 class AddIngrediente extends StatelessWidget{
   @override
